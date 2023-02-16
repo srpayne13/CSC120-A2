@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I really struggled with this assignment. I'm familiar with Python, coming from CSC 110 with Shinyoung Cho, but trying to remember Python in the context of Object-Oriented-Programming is a whole new ball-game. It took me two days to figure out where to start, and the difference between main.py and procedural_resale_shop.py. The in-class discussion on how to get started helped a bit, but I was unable to make a large amount of progress after class. I understand making classes and assigning attributes, but making methods confused me. I think that in the next classes, once we begin learning Java, I will have a better understanding of how to convert Python to Object-Oriented-Programming terms. I tried to use a combination of peer help and the InterWebs (w3schools) to help me better understand the reasoning behind classes/objects/methods, but was overwhelmed by the size of the code I was looking at and how much I needed to achieve, even when breaking the assignment apart step by step. 
